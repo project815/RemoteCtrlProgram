@@ -61,7 +61,6 @@
     <Compile Include="RecvEventServer.cs" />
     <Compile Include="RecvImageEventArgs.cs" />
     <Compile Include="RecvKMEEventArgs.cs" />
-    <Compile Include="RecvRCInfoEventArgs.cs" />
     <Compile Include="Remote.cs" />
     <Compile Include="RemoteClientForm.cs">
       <SubType>Form</SubType>

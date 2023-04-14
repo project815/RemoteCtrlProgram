@@ -12,3 +12,10 @@ C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.csproj.Asse
 C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.dll
 C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.pdb
+C:\Users\user\Desktop\RemoteCtrlProgram\RCEventArgsLib\bin\Debug\RCEventArgsLib.xml
+C:\Users\user\Desktop\RemoteCtrlProgram\RCEventArgsLib\bin\Debug\RCEventArgsLib.dll
+C:\Users\user\Desktop\RemoteCtrlProgram\RCEventArgsLib\bin\Debug\RCEventArgsLib.pdb
+C:\Users\user\Desktop\RemoteCtrlProgram\RCEventArgsLib\obj\Debug\RCEventArgsLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RemoteCtrlProgram\RCEventArgsLib\obj\Debug\RCEventArgsLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RemoteCtrlProgram\RCEventArgsLib\obj\Debug\RCEventArgsLib.dll
+C:\Users\user\Desktop\RemoteCtrlProgram\RCEventArgsLib\obj\Debug\RCEventArgsLib.pdb

@@ -17,6 +17,7 @@ namespace remote
         {
             SetupServer.ip = ip;
             SetupServer.port = port;
+
             SocketBooting();
         }
 
@@ -28,7 +29,7 @@ namespace remote
             lis_sock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             
             lis_sock.Bind(ep);
-            lis_sock.Listen(1);
+            lis_sock.Listen(1); //동시에 연결요청 대기 큐, 한 명 요청보내고 수락하고 나면 또 가능함.
 
             lis_sock.BeginAccept(DoAccept, null);
         }
@@ -39,6 +40,7 @@ namespace remote
             {
                 return;
             }
+
             try
             {
                 Socket sock = lis_sock.EndAccept(result);

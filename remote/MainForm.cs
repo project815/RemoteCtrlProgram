@@ -21,8 +21,8 @@ namespace remote
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            //SetupServer.RecvedRCInfoEventHandler += SetupServer_RecvedRCInfoEventHandler;
-            //SetupServer.Start("127.0.0.1", 10200);
+            SetupServer.RecvedRCInfoEventHandler += SetupServer_RecvedRCInfoEventHandler;
+            SetupServer.Start("127.0.0.1", 10200);
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -38,10 +38,9 @@ namespace remote
         private void btn_setting_Click(object sender, EventArgs e)
         {
             string ip = tbox_ip.Text;
-            SetupClient.ConnectedEventHandler += SetupClient_ConnectedEventHandler;
-            SetupClient.ConnectFailEventHandler += SetupClient_ConnectFailedEventHandler;
-            SetupClient.SetUp(ip, 3000);
-
+            //SetupClient.ConnectedEventHandler += SetupClient_ConnectedEventHandler;
+            //SetupClient.ConnectFailEventHandler += SetupClient_ConnectFailedEventHandler;
+            SetupClient.SetUp(ip, 10200);
         }
 
         private void SetupClient_ConnectFailedEventHandler(object sender, EventArgs e)
