@@ -79,5 +79,35 @@ namespace ImageCaptureTransmissionApp
         
         
         }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_MouseUp(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_MouseMove(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_MouseDown(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_KeyUp(object sender, KeyEventArgs e)
+        {
+
+        }
     }
 }

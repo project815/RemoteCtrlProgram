@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\remote\KMESendRecvLib\bin\Debug\KMESendRecvLib.dll
+C:\Users\user\Desktop\remote\KMESendRecvLib\bin\Debug\KMESendRecvLib.pdb
+C:\Users\user\Desktop\remote\KMESendRecvLib\obj\Debug\KMESendRecvLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\remote\KMESendRecvLib\obj\Debug\KMESendRecvLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\remote\KMESendRecvLib\obj\Debug\KMESendRecvLib.dll
+C:\Users\user\Desktop\remote\KMESendRecvLib\obj\Debug\KMESendRecvLib.pdb

@@ -12,3 +12,5 @@ C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureT
 C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.csproj.CopyComplete
 C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.exe
 C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.pdb
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\bin\Debug\KMESendRecvLib.dll
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\bin\Debug\KMESendRecvLib.pdb

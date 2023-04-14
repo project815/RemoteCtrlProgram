@@ -26,3 +26,11 @@ C:\Users\user\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.csproj.Co
 C:\Users\user\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.csproj.CopyComplete
 C:\Users\user\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.exe
 C:\Users\user\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.pdb
+C:\Users\user\Desktop\remote\ImageSendServer\bin\Debug\KMESendRecvLib.dll
+C:\Users\user\Desktop\remote\ImageSendServer\bin\Debug\remote.exe
+C:\Users\user\Desktop\remote\ImageSendServer\bin\Debug\RCEventArgsLib.dll
+C:\Users\user\Desktop\remote\ImageSendServer\bin\Debug\KMESendRecvLib.pdb
+C:\Users\user\Desktop\remote\ImageSendServer\bin\Debug\remote.pdb
+C:\Users\user\Desktop\remote\ImageSendServer\bin\Debug\remote.exe.config
+C:\Users\user\Desktop\remote\ImageSendServer\bin\Debug\RCEventArgsLib.pdb
+C:\Users\user\Desktop\remote\ImageSendServer\bin\Debug\RCEventArgsLib.xml
