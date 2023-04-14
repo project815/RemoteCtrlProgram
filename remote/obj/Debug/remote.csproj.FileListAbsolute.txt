@@ -55,3 +55,4 @@ C:\Users\user\Desktop\RemoteCtrlProgram\remote\obj\Debug\remote.MainForm.resourc
 C:\Users\user\Desktop\RemoteCtrlProgram\remote\obj\Debug\remote.Properties.Resources.resources
 C:\Users\user\Desktop\RemoteCtrlProgram\remote\obj\Debug\remote.csproj.GenerateResource.cache
 C:\Users\user\Desktop\RemoteCtrlProgram\remote\obj\Debug\remote.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.csproj.SuggestedBindingRedirects.cache
