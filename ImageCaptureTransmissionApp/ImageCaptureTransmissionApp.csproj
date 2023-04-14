@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ImgSendRecLib\ImgSendRecLib.csproj">
+      <Project>{94b985ab-5f15-4e80-a796-a2f962f6f07d}</Project>
+      <Name>ImgSendRecLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

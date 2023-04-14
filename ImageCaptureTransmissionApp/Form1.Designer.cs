@@ -46,78 +46,89 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(77, 70);
+            this.textBox1.Location = new System.Drawing.Point(43, 42);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(345, 42);
+            this.textBox1.Size = new System.Drawing.Size(193, 28);
             this.textBox1.TabIndex = 0;
             // 
             // maskedTextBox1
             // 
-            this.maskedTextBox1.Location = new System.Drawing.Point(415, 70);
+            this.maskedTextBox1.Location = new System.Drawing.Point(231, 42);
+            this.maskedTextBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(28, 42);
+            this.maskedTextBox1.Size = new System.Drawing.Size(17, 28);
             this.maskedTextBox1.TabIndex = 1;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(488, 70);
+            this.button1.Location = new System.Drawing.Point(271, 42);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(234, 42);
+            this.button1.Size = new System.Drawing.Size(130, 25);
             this.button1.TabIndex = 2;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // trackBar1
             // 
-            this.trackBar1.Location = new System.Drawing.Point(77, 181);
+            this.trackBar1.Location = new System.Drawing.Point(43, 109);
+            this.trackBar1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.trackBar1.Name = "trackBar1";
-            this.trackBar1.Size = new System.Drawing.Size(252, 114);
+            this.trackBar1.Size = new System.Drawing.Size(140, 69);
             this.trackBar1.TabIndex = 3;
             // 
             // trackBar2
             // 
-            this.trackBar2.Location = new System.Drawing.Point(438, 181);
+            this.trackBar2.Location = new System.Drawing.Point(243, 109);
+            this.trackBar2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.trackBar2.Name = "trackBar2";
-            this.trackBar2.Size = new System.Drawing.Size(252, 114);
+            this.trackBar2.Size = new System.Drawing.Size(140, 69);
             this.trackBar2.TabIndex = 4;
             // 
             // trackBar3
             // 
-            this.trackBar3.Location = new System.Drawing.Point(77, 320);
+            this.trackBar3.Location = new System.Drawing.Point(43, 192);
+            this.trackBar3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.trackBar3.Name = "trackBar3";
-            this.trackBar3.Size = new System.Drawing.Size(252, 114);
+            this.trackBar3.Size = new System.Drawing.Size(140, 69);
             this.trackBar3.TabIndex = 5;
             // 
             // trackBar4
             // 
-            this.trackBar4.Location = new System.Drawing.Point(438, 320);
+            this.trackBar4.Location = new System.Drawing.Point(243, 192);
+            this.trackBar4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.trackBar4.Name = "trackBar4";
-            this.trackBar4.Size = new System.Drawing.Size(252, 114);
+            this.trackBar4.Size = new System.Drawing.Size(140, 69);
             this.trackBar4.TabIndex = 6;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(73, 481);
+            this.button2.Location = new System.Drawing.Point(41, 289);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(255, 53);
+            this.button2.Size = new System.Drawing.Size(142, 32);
             this.button2.TabIndex = 7;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(767, 70);
+            this.pictureBox1.Location = new System.Drawing.Point(426, 42);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(630, 670);
+            this.pictureBox1.Size = new System.Drawing.Size(350, 402);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 30F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1443, 783);
+            this.ClientSize = new System.Drawing.Size(802, 470);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.trackBar4);
@@ -127,8 +138,10 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.maskedTextBox1);
             this.Controls.Add(this.textBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar3)).EndInit();

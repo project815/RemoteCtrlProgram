@@ -4,3 +4,9 @@ C:\Users\ske30\Desktop\remote\ImgSendRecLib\bin\Debug\ImgSendRecLib.dll
 C:\Users\ske30\Desktop\remote\ImgSendRecLib\bin\Debug\ImgSendRecLib.pdb
 C:\Users\ske30\Desktop\remote\ImgSendRecLib\obj\Debug\ImgSendRecLib.dll
 C:\Users\ske30\Desktop\remote\ImgSendRecLib\obj\Debug\ImgSendRecLib.pdb
+C:\Users\user\Desktop\remote\ImgSendRecLib\bin\Debug\ImgSendRecLib.dll
+C:\Users\user\Desktop\remote\ImgSendRecLib\bin\Debug\ImgSendRecLib.pdb
+C:\Users\user\Desktop\remote\ImgSendRecLib\obj\Debug\ImgSendRecLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\remote\ImgSendRecLib\obj\Debug\ImgSendRecLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\remote\ImgSendRecLib\obj\Debug\ImgSendRecLib.dll
+C:\Users\user\Desktop\remote\ImgSendRecLib\obj\Debug\ImgSendRecLib.pdb

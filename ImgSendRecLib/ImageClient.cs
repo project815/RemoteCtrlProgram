@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace ImgSendRecLib
 {
-    class ImageClient
+    public class ImageClient
     {
         Socket sock;
         public void Connect(string ip, int port)

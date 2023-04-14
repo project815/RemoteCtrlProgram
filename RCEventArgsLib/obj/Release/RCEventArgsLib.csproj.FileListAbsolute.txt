@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\remote\RCEventArgsLib\bin\Release\RCEventArgsLib.dll
+C:\Users\user\Desktop\remote\RCEventArgsLib\bin\Release\RCEventArgsLib.pdb
+C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Release\RCEventArgsLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Release\RCEventArgsLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Release\RCEventArgsLib.dll
+C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Release\RCEventArgsLib.pdb

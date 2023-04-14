@@ -21,8 +21,8 @@ namespace remote
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            SetupServer.Start("127.0.0.1", 10200);
             SetupServer.RecvedRCInfoEventHandler += SetupServer_RecvedRCInfoEventHandler;
+            SetupServer.Start("127.0.0.1", 10200);
         }
 
         private void label1_Click(object sender, EventArgs e)

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\bin\Debug\ImageCaptureTransmissionApp.exe.config
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\bin\Debug\ImageCaptureTransmissionApp.exe
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\bin\Debug\ImageCaptureTransmissionApp.pdb
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\bin\Debug\ImgSendRecLib.dll
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\bin\Debug\ImgSendRecLib.pdb
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.Form1.resources
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.Properties.Resources.resources
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.csproj.CopyComplete
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.exe
+C:\Users\user\Desktop\remote\ImageCaptureTransmissionApp\obj\Debug\ImageCaptureTransmissionApp.pdb
