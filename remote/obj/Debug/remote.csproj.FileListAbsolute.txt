@@ -1,0 +1,52 @@
+C:\Users\ske30\source\repos\remote\remote\bin\Debug\remote.exe.config
+C:\Users\ske30\source\repos\remote\remote\bin\Debug\remote.exe
+C:\Users\ske30\source\repos\remote\remote\bin\Debug\remote.pdb
+C:\Users\ske30\source\repos\remote\remote\obj\Debug\remote.csproj.AssemblyReference.cache
+C:\Users\ske30\source\repos\remote\remote\obj\Debug\remote.csproj.SuggestedBindingRedirects.cache
+C:\Users\ske30\source\repos\remote\remote\obj\Debug\remote.MainForm.resources
+C:\Users\ske30\source\repos\remote\remote\obj\Debug\remote.Properties.Resources.resources
+C:\Users\ske30\source\repos\remote\remote\obj\Debug\remote.csproj.GenerateResource.cache
+C:\Users\ske30\source\repos\remote\remote\obj\Debug\remote.csproj.CoreCompileInputs.cache
+C:\Users\ske30\source\repos\remote\remote\obj\Debug\remote.exe
+C:\Users\ske30\source\repos\remote\remote\obj\Debug\remote.pdb
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\obj\Debug\remote.exe
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\obj\Debug\remote.pdb
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\bin\Debug\RecvRCInfoEventLib.dll
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\bin\Debug\RecvRCInfoEventLib.pdb
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\bin\Debug\RecvRCInfoEventLib.xml
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\obj\Debug\remote.csproj.AssemblyReference.cache
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\obj\Debug\remote.csproj.SuggestedBindingRedirects.cache
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\obj\Debug\remote.MainForm.resources
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\obj\Debug\remote.Properties.Resources.resources
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\obj\Debug\remote.csproj.GenerateResource.cache
+C:\Users\ske30\OneDrive\바탕 화면\remote\remote\obj\Debug\remote.csproj.CoreCompileInputs.cache
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.csproj.AssemblyReference.cache
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.csproj.SuggestedBindingRedirects.cache
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.MainForm.resources
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.Properties.Resources.resources
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.csproj.GenerateResource.cache
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.csproj.CoreCompileInputs.cache
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.exe
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.pdb
+C:\Users\ske30\Desktop\remote\remote\bin\Debug\remote.exe.config
+C:\Users\ske30\Desktop\remote\remote\bin\Debug\remote.exe
+C:\Users\ske30\Desktop\remote\remote\bin\Debug\remote.pdb
+C:\Users\ske30\Desktop\remote\remote\bin\Debug\RCEventArgsLib.dll
+C:\Users\ske30\Desktop\remote\remote\bin\Debug\RCEventArgsLib.pdb
+C:\Users\ske30\Desktop\remote\remote\bin\Debug\RCEventArgsLib.xml
+C:\Users\ske30\Desktop\remote\remote\obj\Debug\remote.csproj.CopyComplete
+C:\Users\user\Desktop\remote\remote\bin\Debug\remote.exe.config
+C:\Users\user\Desktop\remote\remote\bin\Debug\remote.exe
+C:\Users\user\Desktop\remote\remote\bin\Debug\remote.pdb
+C:\Users\user\Desktop\remote\remote\bin\Debug\RCEventArgsLib.dll
+C:\Users\user\Desktop\remote\remote\bin\Debug\RCEventArgsLib.pdb
+C:\Users\user\Desktop\remote\remote\bin\Debug\RCEventArgsLib.xml
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.MainForm.resources
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.Properties.Resources.resources
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.csproj.GenerateResource.cache
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.csproj.CopyComplete
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.exe
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.pdb
+C:\Users\user\Desktop\remote\remote\obj\Debug\remote.csproj.SuggestedBindingRedirects.cache

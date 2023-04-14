@@ -1,0 +1,14 @@
+C:\Users\ske30\Desktop\remote\ImageSendServer\bin\Debug\ImageSendServer.exe.config
+C:\Users\ske30\Desktop\remote\ImageSendServer\bin\Debug\ImageSendServer.exe
+C:\Users\ske30\Desktop\remote\ImageSendServer\bin\Debug\ImageSendServer.pdb
+C:\Users\ske30\Desktop\remote\ImageSendServer\bin\Debug\ImgSendRecLib.dll
+C:\Users\ske30\Desktop\remote\ImageSendServer\bin\Debug\ImgSendRecLib.pdb
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.csproj.AssemblyReference.cache
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.Form1.resources
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.Properties.Resources.resources
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.csproj.GenerateResource.cache
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.csproj.CoreCompileInputs.cache
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.csproj.CopyComplete
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.exe
+C:\Users\ske30\Desktop\remote\ImageSendServer\obj\Debug\ImageSendServer.pdb

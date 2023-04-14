@@ -1,0 +1,14 @@
+C:\Users\ske30\Desktop\remote\RCEventArgsLib\bin\Debug\RCEventArgsLib.xml
+C:\Users\ske30\Desktop\remote\RCEventArgsLib\bin\Debug\RCEventArgsLib.dll
+C:\Users\ske30\Desktop\remote\RCEventArgsLib\bin\Debug\RCEventArgsLib.pdb
+C:\Users\ske30\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.csproj.AssemblyReference.cache
+C:\Users\ske30\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.csproj.CoreCompileInputs.cache
+C:\Users\ske30\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.dll
+C:\Users\ske30\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.pdb
+C:\Users\user\Desktop\remote\RCEventArgsLib\bin\Debug\RCEventArgsLib.xml
+C:\Users\user\Desktop\remote\RCEventArgsLib\bin\Debug\RCEventArgsLib.dll
+C:\Users\user\Desktop\remote\RCEventArgsLib\bin\Debug\RCEventArgsLib.pdb
+C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.dll
+C:\Users\user\Desktop\remote\RCEventArgsLib\obj\Debug\RCEventArgsLib.pdb
